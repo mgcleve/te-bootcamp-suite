@@ -1,0 +1,4 @@
+#welcome-heading (data-highlightword){
+	content: attr(data-highlightword);
+	color: #1ad602;
+}
